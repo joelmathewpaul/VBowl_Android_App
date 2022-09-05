@@ -12,6 +12,9 @@ Ever attended an event but couldn’t get a hold of people after? Wondering who 
 event? This is the app for you! Here you can drop your business card in the event bowls and start
 connecting with fellow event goers! Easy right? Yeah, it is, try it.
 
+## Screenshots
+
+
 **Create Your Digital Business Card:**
 * Create personalized visiting cards and customize them to your taste and preferences.
 * Enrich the card with details of your profession, interests, goals and motivations.
