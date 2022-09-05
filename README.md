@@ -13,8 +13,12 @@ event? This is the app for you! Here you can drop your business card in the even
 connecting with fellow event goers! Easy right? Yeah, it is, try it.
 
 ## Screenshots
-
-
+<img src= "https://github.com/joelmathewpaul/VBowl_Android_App/blob/main/VBowl_screenShots/LogIn.jpeg" width="200" height="400"> <img src= "https://github.com/joelmathewpaul/VBowl_Android_App/blob/main/VBowl_screenShots/HomeScreen.jpeg" width="200" height="400">
+<img src= "https://github.com/joelmathewpaul/VBowl_Android_App/blob/main/VBowl_screenShots/PurchaseCard.jpeg" width="200" height="400">
+<img src= "https://github.com/joelmathewpaul/VBowl_Android_App/blob/main/VBowl_screenShots/SavedCards.jpeg" width="200" height="400">
+<img src="https://github.com/joelmathewpaul/VBowl_Android_App/blob/main/VBowl_screenShots/BowlSpecs.jpeg" width="200" height="400"> 
+<img src= "https://github.com/joelmathewpaul/VBowl_Android_App/blob/main/VBowl_screenShots/CreateBowl.jpeg" width="200" height="400">
+<img src= "https://github.com/joelmathewpaul/VBowl_Android_App/blob/main/VBowl_screenShots/UserProfile.jpeg" width="200" height="400"><br/>
 **Create Your Digital Business Card:**
 * Create personalized visiting cards and customize them to your taste and preferences.
 * Enrich the card with details of your profession, interests, goals and motivations.
